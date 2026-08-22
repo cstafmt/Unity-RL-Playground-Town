@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "is_fitted": false,
+  "calibration_id": "UNFITTED_TEMPLATE_DO_NOT_USE_FOR_RESULTS",
+  "fitted_split": "",
+  "sample_count": 0,
+  "logit_scale": 1.0,
+  "logit_bias": 0.0,
+  "write_threshold": 0.25,
+  "verify_threshold": 0.45,
+  "pursue_threshold": 0.75,
+  "minimum_independent_confirmations": 1,
+  "independent_view_distance": 1.5,
+  "independent_view_angle": 25.0
+}
